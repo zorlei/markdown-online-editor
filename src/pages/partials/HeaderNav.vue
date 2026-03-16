@@ -21,35 +21,35 @@
             <icon class="header-icon" name="wechat" />
           </span>
         </a>
-        <a href="https://www.niceshare.site/" class="header-link" target="_blank" rel="noopener">
-          <span class="hint--bottom" aria-label="逍遥自在轩">
+        <a href="https://nav.7776555.xyz/" class="header-link" target="_blank" rel="noopener">
+          <span class="hint--bottom" aria-label="导航站">
             <icon class="header-icon" name="homepage" />
           </span>
         </a>
-        <a href="https://www.lovejade.cn/" class="header-link" target="_blank" rel="noopener">
-          <span class="hint--bottom" aria-label="清风明月轩">
+        <a href="https://blog.7776555.xyz/" class="header-link" target="_blank" rel="noopener">
+          <span class="hint--bottom" aria-label="blog">
             <icon class="header-icon" name="home" />
           </span>
         </a>
         <a
           v-if="!isMobile"
-          href="https://x.com/MarshalXuan"
+          href="https://video.7776555.xyz/n"
           class="header-link"
           target="_blank"
           rel="noopener"
         >
-          <span class="hint--bottom" aria-label="X - 轩帅">
+          <span class="hint--bottom" aria-label="video">
             <icon class="header-icon" name="x" />
           </span>
         </a>
         <a
           v-if="!isMobile"
-          href="https://github.com/nicejade"
+          href="https://github.com/zorlei"
           class="header-link"
           target="_blank"
           rel="noopener"
         >
-          <span class="hint--bottom" aria-label="作者 Github">
+          <span class="hint--bottom" aria-label="Github">
             <icon class="header-icon" name="github" />
           </span>
         </a>
