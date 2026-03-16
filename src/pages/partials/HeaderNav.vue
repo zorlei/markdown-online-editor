@@ -33,7 +33,7 @@
         </a>
         <a
           v-if="!isMobile"
-          href="https://video.7776555.xyz/n"
+          href="https://video.7776555.xyz/"
           class="header-link"
           target="_blank"
           rel="noopener"
