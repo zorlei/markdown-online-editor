@@ -174,11 +174,9 @@ gantt
 
 | 作品名称        | 在线地址   |  上线日期  |
 | :--------  | :-----  | :----:  |
-| 逍遥自在轩 | [https://www.niceshare.site](https://www.niceshare.site/?ref=markdown.lovejade.cn) |2024-04-26|
-| 玉桃文飨轩 | [https://share.lovejade.cn](https://share.lovejade.cn/?ref=markdown.lovejade.cn) |2022-08-26|
-| 缘知随心庭 | [https://fine.niceshare.site](https://fine.niceshare.site/?ref=markdown.lovejade.cn) |2022-02-26|
-| 静轩之别苑 | [http://quickapp.lovejade.cn](http://quickapp.lovejade.cn/?ref=markdown.lovejade.cn) |2019-01-12|
-| 晚晴幽草轩 | [https://www.jeffjade.com](https://www.jeffjade.com/?ref=markdown.lovejade.cn) |2014-09-20|
+| 导航站 | [https://nav.7776555.xyz/](https://nav.7776555.xyz/) |2026-03-08|
+| blog | [https://blog.7776555.xyz/](https://blog.7776555.xyz/) |2026-03-12|
+| video | [https://video.7776555.xyz/](https://video.7776555.xyz/) |2026-03-06|
 
 ### 8. 支持部分站点、视频、音频解析
 
@@ -192,16 +190,4 @@ gantt
 
 ---
 
-## 相关链接
-
-- [清风明月轩](https://www.lovejade.cn/?ref=md)
-- [逍遥自在轩](https://www.niceshare.site/?ref=md)
-- [晚晴幽草轩](https://www.jeffjade.com/nicelinks?ref=md)
-- [玉桃文飨轩](https://share.lovejade.cn/?ref=md)
-- [缘知随心庭](https://fine.niceshare.site/?ref=md)
-- [静轩之别苑](https://quickapp.lovejade.cn/?ref=md)
-- [悠然宜想亭](https://forum.lovejade.cn/?ref=md)
-- [天意人间舫](https://blog.lovejade.cn/?utm_source=github.com)
-- [SegmentFault](https://segmentfault.com/u/jeffjade)
-- [X（Twitter）](https://x.com/MarshalXuan)
 `
